@@ -3,7 +3,7 @@
 Vlarm is a voice-controlled alarm app designed to help people stay disciplined, present, and productive.  
 Instead of typing, users simply **speak** their reminder like:
 
-> “In 15 minutes remind me to finish my homework.”
+“In 15 minutes remind me to finish my homework.”
 
 Vlarm sets the alarm automatically and, when it goes off, the agent **speaks back** with the exact reminder in a friendly, human-sounding voice.
 
