@@ -1,0 +1,19 @@
+{
+	"name": "xcode build server",
+	"version": "0.2",
+	"bspVersion": "2.0",
+	"languages": [
+		"c",
+		"cpp",
+		"objective-c",
+		"objective-cpp",
+		"swift"
+	],
+	"argv": [
+		"/opt/homebrew/bin/xcode-build-server"
+	],
+	"workspace": "/Users/deepakbahl/Desktop/Vlarm/Vlarm/Vlarm.xcworkspace",
+	"build_root": "/Users/deepakbahl/Library/Developer/Xcode/DerivedData",
+	"scheme": "Vlarm",
+	"kind": "xcode"
+}
